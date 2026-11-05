@@ -1,0 +1,13 @@
+Copyright (c) 2026 YourName. All rights reserved.
+
+No Sprint (mod id: nosprint)
+Minecraft 1.20.1 / Forge 47.4.28
+
+This project is distributed under the "All Rights Reserved" terms declared in
+META-INF/mods.toml and gradle.properties: the source code is published for
+reference and building, but no permission is granted to redistribute modified
+or unmodified versions without the copyright holder's written consent.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
